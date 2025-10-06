@@ -1,0 +1,15 @@
+H:\LESSON GITHUB\Lesson csh\begin\begin9\bin\Debug\net9.0\begin9.exe
+H:\LESSON GITHUB\Lesson csh\begin\begin9\bin\Debug\net9.0\begin9.deps.json
+H:\LESSON GITHUB\Lesson csh\begin\begin9\bin\Debug\net9.0\begin9.runtimeconfig.json
+H:\LESSON GITHUB\Lesson csh\begin\begin9\bin\Debug\net9.0\begin9.dll
+H:\LESSON GITHUB\Lesson csh\begin\begin9\bin\Debug\net9.0\begin9.pdb
+H:\LESSON GITHUB\Lesson csh\begin\begin9\obj\Debug\net9.0\begin9.GeneratedMSBuildEditorConfig.editorconfig
+H:\LESSON GITHUB\Lesson csh\begin\begin9\obj\Debug\net9.0\begin9.AssemblyInfoInputs.cache
+H:\LESSON GITHUB\Lesson csh\begin\begin9\obj\Debug\net9.0\begin9.AssemblyInfo.cs
+H:\LESSON GITHUB\Lesson csh\begin\begin9\obj\Debug\net9.0\begin9.csproj.CoreCompileInputs.cache
+H:\LESSON GITHUB\Lesson csh\begin\begin9\obj\Debug\net9.0\begin9.sourcelink.json
+H:\LESSON GITHUB\Lesson csh\begin\begin9\obj\Debug\net9.0\begin9.dll
+H:\LESSON GITHUB\Lesson csh\begin\begin9\obj\Debug\net9.0\refint\begin9.dll
+H:\LESSON GITHUB\Lesson csh\begin\begin9\obj\Debug\net9.0\begin9.pdb
+H:\LESSON GITHUB\Lesson csh\begin\begin9\obj\Debug\net9.0\begin9.genruntimeconfig.cache
+H:\LESSON GITHUB\Lesson csh\begin\begin9\obj\Debug\net9.0\ref\begin9.dll
