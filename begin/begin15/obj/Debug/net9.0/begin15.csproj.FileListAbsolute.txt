@@ -1,0 +1,5 @@
+H:\LESSON GITHUB\Lesson csh\begin\begin15\obj\Debug\net9.0\begin15.GeneratedMSBuildEditorConfig.editorconfig
+H:\LESSON GITHUB\Lesson csh\begin\begin15\obj\Debug\net9.0\begin15.AssemblyInfoInputs.cache
+H:\LESSON GITHUB\Lesson csh\begin\begin15\obj\Debug\net9.0\begin15.AssemblyInfo.cs
+H:\LESSON GITHUB\Lesson csh\begin\begin15\obj\Debug\net9.0\begin15.csproj.CoreCompileInputs.cache
+H:\LESSON GITHUB\Lesson csh\begin\begin15\obj\Debug\net9.0\begin15.sourcelink.json
